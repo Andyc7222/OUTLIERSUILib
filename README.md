@@ -1,7 +1,3 @@
-# OutliersUILib (Load-Unload Enhanced)
-
-**OUTLIERS_SECURE_TAG: e0dAXwtQQBZgUVVNQlJTUwd2E0BaW1cWEjBcARMWBANTVnYUFl4IU0tHZVFSE0RTBQEGdhYQWF0GQUAwB1pHSw==**
-
 ## Overview
 
 OutliersUILib is a Lua library for creating interactive, keyboard/gamepad-navigable user interfaces within Roblox exploits. It leverages the `Drawing` library for rendering, providing a structured way to build menus with tabs, columns, and various interactive elements. It includes robust configuration management and a strong emphasis on cleanup via its `unload` function.
